@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/licença-MIT-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/versão-1.0.0-purple?style=for-the-badge"/>
 </p>
 
