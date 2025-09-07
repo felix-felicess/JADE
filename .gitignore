@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# If using PostgreSQL or MySQL and want to ignore dumps
+*.sql
+
+# Environment variables
+.env
+.env.*
+
+# pipenv / poetry / venv
+Pipfile.lock
+poetry.lock
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code and other IDEs/editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Static/media files (optional, if generated at runtime)
+staticfiles/
+media/
+
+# Migrations (optional — useful in early dev, but usually versioned later)
+# Uncomment below if you want to ignore all migration files
+# */migrations/
+# */migrations/*.py
+# */migrations/*.pyc
+
